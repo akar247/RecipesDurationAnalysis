@@ -176,6 +176,29 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 
 </center>
 
+#### &emsp; 2. Aggregates:
+
+<br>
+<br>
+
+    We also calculated some interesting aggregate values through pivot tables. This illustrated to us the general break down how often certain pairs of complexities occurred and if the average occurence of certain aggregates were ever out of the ordinary.
+
+<br>
+<br>
+
+<center>
+
+<iframe src="assets/pt_1.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/pt_2.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+</center>
 
 
 </p>
