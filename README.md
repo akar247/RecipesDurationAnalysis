@@ -1,4 +1,3 @@
-# Recipes Duration Analysis
 Report on how the complexity of a recipe is (based on number of steps, number of ingredients, time till completion) affects its average rating.
 
 
@@ -34,11 +33,27 @@ The key reason why you should be interested in our analysis of this dataset is b
 
 For the purposes of this analysis we will be taking a holistic approach of considering all the columns in our data analysis but for the purposes of our question the relevant columns are:
 
-1. `name` : The recipe name as denoted by the user who submitted the recipe
-2. `minutes` : The time it takes (in minutes) to prepare a recipe
-3. `n_steps` : The number of steps outlined in a recipe
-4. `n_ingredients` : The number of ingredients required to prepare a recipe
-5. `rating_average` : The average rating of each recipe by all users that submitted the recipe
+&emsp; 1. `name` : The recipe name as denoted by the user who submitted the recipe
+
+<br>
+
+&emsp; 2. `minutes` : The time it takes (in minutes) to prepare a recipe
+
+<br>
+
+&emsp; 3. `n_steps` : The number of steps outlined in a recipe
+
+<br>
+
+&emsp; 4. `n_ingredients` : The number of ingredients required to prepare a recipe
+
+<br>
+
+&emsp; 5. `rating_average` : The average rating of each recipe by all users that submitted the 
+recipe
+
+<br>
+
 
 </p>
 
@@ -61,6 +76,10 @@ The process of cleaning our dataset goes as follows:
     * The columns `tags`, `nutrition`, `ingredients`, and `steps` were all lists that were considered strings. We converted them to list types. 
     * We converted the `submitted` and `date` columns to datetime values. 
     * We converted `user_id` and  `recipe_id` to numeric types (int).
+
+<br>
+<br>
+
 2. Removing extreme values
     * We remove cooking times that were longer than 24 hours. 
     
