@@ -49,6 +49,8 @@ For the purposes of this analysis we will be taking a holistic approach of consi
 
 <P>
 
+
+
 The process of cleaning our dataset goes as follows:
 
 1. Correcting column data types
@@ -60,6 +62,21 @@ The process of cleaning our dataset goes as follows:
     * We remove cooking times that were longer than 24 hours. 
     
         Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
+
+
+<br>
+<br>
+
+For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
+
+
+#### 1. Univariate Analysis:
+
+    For our univariate analysis we create multiple distributions of the relevant columns of our dataset. This allowed us to easily view the spread, mins, maxes, and skew of the values for each column of data. 
+
+<iframe src="assets/univariate_times.html" width=800 height=600 frameBorder=0></iframe>
+
+
 </p>
 
 
