@@ -152,9 +152,29 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 <br>
 <br>
 
-    For our bivariate analysis we wanted to understand the relationship between key quantitative values within our dataset. The graphs of these relationships allowed us to understand the rough association between two variables and gave us better insight on how the increase / decrease of minutes or steps might affect other variables 
+    For our bivariate analysis we wanted to understand the relationship between key quantitative values within our dataset. The graphs of these relationships allowed us to understand the rough association between two variables and gave us better insight on how the increase / decrease of minutes or steps might affect other variables. The plots are shown below. 
 
+<br>
+<br>
 
+<center>
+
+<iframe src="assets/bivariate_mins_steps.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/bivariate_mins_ingred.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/bivariate_mins_ratings.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+</center>
 
 
 
