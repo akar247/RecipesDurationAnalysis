@@ -106,8 +106,14 @@ The process of cleaning our dataset goes as follows:
 
 For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
 
+<br>
+<br>
+
 
 #### &emsp; 1. Univariate Analysis:
+
+<br>
+<br>
 
     For our univariate analysis we create multiple distributions of the relevant columns of our dataset. This allowed us to easily view the spread, mins, maxes, and skew of the values for each column of data. We created these distributions for the cooking times, number of steps in recipes, number of ingredients in recipes, and the average ratings of recipes. The plots are shown below. 
 
@@ -142,6 +148,9 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 <br>
 
 #### &emsp; 2. Bivariate Analysis:
+
+<br>
+<br>
 
     For our bivariate analysis we wanted to understand the relationship between key quantitative values within our dataset. The graphs of these relationships allowed us to understand the rough association between two variables and gave us better insight on how the increase / decrease of minutes or steps might affect other variables 
 
