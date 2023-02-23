@@ -104,13 +104,13 @@ The process of cleaning our dataset goes as follows:
 <br>
 <br>
 
-For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
+For our **EDA**, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
 
 <br>
 <br>
 
 
-#### &emsp; 1. Univariate Analysis:
+&emsp; **1. Univariate Analysis:**
 
 <br>
 <br>
@@ -167,7 +167,7 @@ This distribution illustrates a very interesting aspect of the data where the av
 <br>
 <br>
 
-#### &emsp; 2. Bivariate Analysis:
+&emsp; **2. Bivariate Analysis:**
 
 <br>
 <br>
@@ -196,7 +196,7 @@ This distribution illustrates a very interesting aspect of the data where the av
 
 </center>
 
-#### &emsp; 2. Aggregates:
+&emsp; **3. Aggregates:**
 
 <br>
 <br>
