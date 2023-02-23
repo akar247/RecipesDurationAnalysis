@@ -127,7 +127,17 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 <br>
 <br>
 
+From this distribution we notice that there is a massive range of times for which recipes are made, even when we narrow down the times to less than a day, however the greatest number of recipes occur when the duration is about an hour or less (~ 72 minutes)
+
+<br>
+<br>
+
 <iframe src="assets/univariate_steps.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+Similarly to the distribution of cooking duration, the number of stpes has a very positively skewed graph where most recipes have it's number of steps between 5 - 10 with the overwhlming majority as recipes with less than 20 steps. 
 
 <br>
 <br>
@@ -137,7 +147,17 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 <br>
 <br>
 
+The distribution for the number of ingredients is actually relatively normal with the exception for a couple of outlier recipes that contain more than 25 recipes. Other than these cases, the distribution is centered around 10 ingredients for a recipe. 
+
+<br>
+<br>
+
 <iframe src="assets/univariate_ratings.html" width=600 height=400 frameBorder=1></iframe> 
+
+<br>
+<br>
+
+This distribution illustrates a very interesting aspect of the data where the average ratings is strongly negatively skewed with the majority of the ratings being greater than a 4.5. We have found this interesting simply due to the general idea that the more likely people to leave reviews and ratings when optional is the population of people that have strong dissatisfaction of a product or service. 
 
 <br>
 <br>
