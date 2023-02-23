@@ -184,7 +184,17 @@ This distribution illustrates a very interesting aspect of the data where the av
 <br>
 <br>
 
+This plot illustrates the relationship between the number of steps a recipe has and the average duration (in minutes) that recipe takes. From this graph we are able to tell that there is a positive relationship between the two variables (increasing the number of steps of a recipe increases that recipes duration) except for a gap in the data where there are no recipes of 45 - 75 steps. 
+
+<br>
+<br>
+
 <iframe src="assets/bivariate_mins_ingred.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+THe plot of the number of ingredients against the average duration of a recipe is similar to the previous graph excep its domain is much smaller. It also does not seem to have as much of a linear relationship as it could be a quadratic relationship as the average duration sharply increases when there are 20 - 25 ingredients in the recipe. 
 
 <br>
 <br>
@@ -213,7 +223,7 @@ This distribution illustrates a very interesting aspect of the data where the av
 <br>
 <br>
 
-<iframe src="assets/pt_2.*" width=600 height=400 frameBorder=1></iframe>
+Although this pivot table is very large, it does reveal some key aspects of the dataset to us. The pivot table shows us how often a certain pairing of cooking duration (index) and number of steps (column) for a recipe takes. We can use this to understand the frequency in which a small number of steps recipe of high cooking duration can take place. It is a more quantitative way of looking at the data illustrated by the first bivariate plot above. 
 
 <br>
 <br>
