@@ -103,7 +103,27 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 <br>
 
 <center>
+
 <iframe src="assets/univariate_times.html" width=400 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/univariate_steps.html" width=400 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/univariate_ingred.html" width=400 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+<iframe src="assets/univariate_ratings.html" width=400 height=400 frameBorder=1></iframe> 
+
+<br>
+<br>
+
 </center>
 
 <br>
