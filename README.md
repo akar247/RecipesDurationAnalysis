@@ -11,9 +11,11 @@ Report on how the complexity of a recipe is (based on number of steps, number of
 The dataset we used casme from [food.com](https://dsc80.com/project3/recipes-and-ratings/food.com), which offered a vast number of recipes and ratings associated with each recipe based off individual users. There were two datasets initially, the raw recipes info stored in `RAW_recipes.csv` and the reviews / ratings associated with each recipe was stored in `RAW_interactions.csv`. 
 
 <br>
+<br>
 
 Our initial formatting of the data was to left merge the recipes and interactions datasets on the `id` column of the recipes and the `recipe_id` column of the interactions. Furthermore, we changed all ratings of value 0 to np.NaN values since ratings are supposed to be values from 1 - 5 so 0 was an invalid value for ratings and should not be considered in our analysis. We compute the average rating of each recipe and stored it into the merged dataframe as `rating_average`.
 
+<br>
 <br>
 
 Once we had formatted the dataframe and were able to take a thorough look into the dataset, we decided that the question we could ask from this dataset is:
@@ -27,6 +29,7 @@ Once we had formatted the dataframe and were able to take a thorough look into t
 
 The key reason why you should be interested in our analysis of this dataset is because we analyze the true reasons behind lower ratings of recipes. Through our analysis one will understand the objective reasoning behind a recipe's rating and can align that to their own preferences in order to choose better recipes to pursue. 
 
+<br>
 <br>
 
 For the purposes of this analysis we will be taking a holistic approach of considering all the columns in our data analysis but for the purposes of our question the relevant columns are:
