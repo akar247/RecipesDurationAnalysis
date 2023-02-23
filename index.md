@@ -33,6 +33,9 @@ The key reason why you should be interested in our analysis of this dataset is b
 
 For the purposes of this analysis we will be taking a holistic approach of considering all the columns in our data analysis but for the purposes of our question the relevant columns are:
 
+<br>
+<br>
+
 &emsp; 1. `name` : The recipe name as denoted by the user who submitted the recipe
 
 <br>
@@ -94,9 +97,20 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 
 #### 1. Univariate Analysis:
 
-    For our univariate analysis we create multiple distributions of the relevant columns of our dataset. This allowed us to easily view the spread, mins, maxes, and skew of the values for each column of data. 
+    For our univariate analysis we create multiple distributions of the relevant columns of our dataset. This allowed us to easily view the spread, mins, maxes, and skew of the values for each column of data. We created these distributions for the cooking times, number of steps in recipes, number of ingredients in recipes, and the average ratings of recipes. The plots are shown below. 
 
-<iframe src="assets/univariate_times.html" width=800 height=600 frameBorder=0></iframe>
+<br>
+<br>
+
+<center>
+<iframe src="assets/univariate_times.html" width=400 height=400 frameBorder=1></iframe>
+</center>
+
+<br>
+<br>
+
+
+
 
 
 </p>
