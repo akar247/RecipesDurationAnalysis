@@ -208,12 +208,12 @@ This distribution illustrates a very interesting aspect of the data where the av
 
 <center>
 
-<iframe src="assets/pt_1.html" width=600 height=400 frameBorder=1></iframe>
+<iframe src="assets/pt_1.*" width=600 height=400 frameBorder=1></iframe>
 
 <br>
 <br>
 
-<iframe src="assets/pt_2.html" width=600 height=400 frameBorder=1></iframe>
+<iframe src="assets/pt_2.*" width=600 height=400 frameBorder=1></iframe>
 
 <br>
 <br>
