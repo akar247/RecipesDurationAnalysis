@@ -74,19 +74,31 @@ recipe
 
 The process of cleaning our dataset goes as follows:
 
-1. Correcting column data types
+<br>
+<br>
 
-    * The columns `tags`, `nutrition`, `ingredients`, and `steps` were all lists that were considered strings. We converted them to list types. 
-    * We converted the `submitted` and `date` columns to datetime values. 
-    * We converted `user_id` and  `recipe_id` to numeric types (int).
+&emsp; 1. Correcting column data types
 
 <br>
 <br>
 
-2. Removing extreme values
-    * We remove cooking times that were longer than 24 hours. 
+&emsp;&emsp; - The columns `tags`, `nutrition`, `ingredients`, and `steps` were all lists that were considered strings. We converted them to list types. 
+
+<br>
+
+&emsp;&emsp; - We converted the `submitted` and `date` columns to datetime values. 
+
+<br>
+
+&emsp;&emsp; - We converted `user_id` and  `recipe_id` to numeric types (int).
+
+<br>
+<br>
+
+&emsp; 2. Removing extreme values
+&emsp;&emsp; - We remove cooking times that were longer than 24 hours. 
     
-        Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
+&emsp;&emsp; Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
 
 
 <br>
@@ -95,7 +107,7 @@ The process of cleaning our dataset goes as follows:
 For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
 
 
-#### 1. Univariate Analysis:
+#### &emsp; 1. Univariate Analysis:
 
     For our univariate analysis we create multiple distributions of the relevant columns of our dataset. This allowed us to easily view the spread, mins, maxes, and skew of the values for each column of data. We created these distributions for the cooking times, number of steps in recipes, number of ingredients in recipes, and the average ratings of recipes. The plots are shown below. 
 
@@ -104,22 +116,22 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 
 <center>
 
-<iframe src="assets/univariate_times.html" width=400 height=400 frameBorder=1></iframe>
+<iframe src="assets/univariate_times.html" width=600 height=400 frameBorder=1></iframe>
 
 <br>
 <br>
 
-<iframe src="assets/univariate_steps.html" width=400 height=400 frameBorder=1></iframe>
+<iframe src="assets/univariate_steps.html" width=600 height=400 frameBorder=1></iframe>
 
 <br>
 <br>
 
-<iframe src="assets/univariate_ingred.html" width=400 height=400 frameBorder=1></iframe>
+<iframe src="assets/univariate_ingred.html" width=600 height=400 frameBorder=1></iframe>
 
 <br>
 <br>
 
-<iframe src="assets/univariate_ratings.html" width=400 height=400 frameBorder=1></iframe> 
+<iframe src="assets/univariate_ratings.html" width=600 height=400 frameBorder=1></iframe> 
 
 <br>
 <br>
@@ -128,6 +140,10 @@ For our EDA, we focused on 3 main forms of analysis, univariate, bivariate, and 
 
 <br>
 <br>
+
+#### &emsp; 2. Bivariate Analysis:
+
+    For our bivariate analysis we wanted to understand the relationship between key quantitative values within our dataset. The graphs of these relationships allowed us to understand the rough association between two variables and gave us better insight on how the increase / decrease of minutes or steps might affect other variables 
 
 
 
