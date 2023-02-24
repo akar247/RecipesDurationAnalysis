@@ -92,6 +92,7 @@ The process of cleaning our dataset goes as follows:
 &emsp;&emsp; - We converted <code>user_id</code> and <code>recipe_id</code> to numeric types (int).
 
 <br>
+<br>
 
 &emsp; 2. Removing extreme values
 
