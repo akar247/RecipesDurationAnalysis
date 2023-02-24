@@ -317,7 +317,7 @@ The <code>description</code> column in this dataset is likely NMAR. While it is 
 <br>
 
 
-Second, <strong>Missing Dependency</strong>:
+Secondly, <strong>Missing Dependency</strong>:
 
 <br>
 <br>
