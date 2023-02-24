@@ -80,7 +80,6 @@ The process of cleaning our dataset goes as follows:
 &emsp; 1. Correcting column data types
 
 <br>
-<br>
 
 &emsp;&emsp; - The columns <code>tags</code>, <code>nutrition</code>, <code>ingredients</code>, and <code>steps</code> were all lists that were considered strings. We converted them to list types. 
 
@@ -94,6 +93,17 @@ The process of cleaning our dataset goes as follows:
 
 <br>
 
+&emsp; 2. Removing extreme values
+
+<br>
+
+&emsp;&emsp; - We remove cooking times that were longer than 24 hours. 
+    
+&emsp;&emsp; Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
+
+<br>
+<br>
+
 <strong>Our cleaned dataset</strong>
 
 <br>
@@ -101,12 +111,7 @@ The process of cleaning our dataset goes as follows:
 <iframe src="assets/df_head.html" width=600 height=400 frameBorder=1></iframe>
 
 <br>
-<br>
 
-&emsp; 2. Removing extreme values
-&emsp;&emsp; - We remove cooking times that were longer than 24 hours. 
-    
-&emsp;&emsp; Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
 
 
 <br>
