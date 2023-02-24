@@ -296,7 +296,9 @@ Second, <strong>Missing Dependency</strong>:
 ## <strong>Hypothesis Testing</strong>
 
 <br>
+
 <p>
+
 To answer our question:
 
 
@@ -371,6 +373,7 @@ To answer our question:
 
 
 </p>
+
 <br>
 
 ---
