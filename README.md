@@ -336,6 +336,7 @@ To answer our question:
 
 &emsp;The average rating of a recipe decreases the longer the cooking duration of that recipe.
 
+<br>
 
 <strong>Choosing the Alternative</strong>: 
 <br>
@@ -353,6 +354,8 @@ To answer our question:
 
 &emsp;The test statistic we decided to use was the difference in average cooking duration for low rated recipes on average [1, 3.5) and high rated recipes on average [3.5, 5]
 
+<br>
+
 <strong>Choosing the Test Statistic</strong>: 
 <br>
 
@@ -369,10 +372,14 @@ To answer our question:
 
 &emsp;We chose our significance level to be 0.05 since this is the standard level for hypothesis tests that do not require extreme accuracy. 
 
+<br>
+
 <strong>Conclusion</strong>: 
 <br>
 
 &emsp;Our resulting p-value was 0.00.
+
+<br>
 
 &emsp;Since our p-value is less than our stated significance value, we reject the null hypothesis. There is evidence that is not consistent with our null hypothesis that average rating and cooking duration are not related.
 
