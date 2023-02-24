@@ -3,7 +3,7 @@ Report on how the complexity of a recipe is (based on number of steps, number of
 
 
 
-### **Getting the Data**
+### <strong>Getting the Data</strong>
 
 <p>
 
@@ -66,7 +66,7 @@ recipe
 
 <br>
 
-### **Cleaning and EDA (Exploratory Data Analysis)**
+### <strong>Cleaning and EDA (Exploratory Data Analysis)</strong>
 
 <P>
 
@@ -104,13 +104,13 @@ The process of cleaning our dataset goes as follows:
 <br>
 <br>
 
-For our **EDA**, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
+For our <strong>EDA</strong>, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
 
 <br>
 <br>
 
 
-&emsp; **1. Univariate Analysis:**
+&emsp; <strong>1. Univariate Analysis:</strong>
 
 <br>
 <br>
@@ -167,7 +167,7 @@ This distribution illustrates a very interesting aspect of the data where the av
 <br>
 <br>
 
-&emsp; **2. Bivariate Analysis:**
+&emsp; <strong>2. Bivariate Analysis:</strong>
 
 <br>
 <br>
@@ -206,7 +206,7 @@ THe plot of the number of ingredients against the average duration of a recipe i
 
 </center>
 
-&emsp; **3. Aggregates:**
+&emsp; <strong>3. Aggregates:</strong>
 
 <br>
 <br>
