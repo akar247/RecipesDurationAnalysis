@@ -113,7 +113,7 @@ The process of cleaning our dataset goes as follows:
 <br>
 
 <iframe style="background: #E5D1CD;"
-         src="assets/df_head.html" width=500 height=300 frameBorder=1>
+         src="assets/df_head2.html" width=500 height=300 frameBorder=1>
 </iframe>
 
 <br>
