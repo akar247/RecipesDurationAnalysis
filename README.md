@@ -1,4 +1,4 @@
-Report on how the complexity of a recipe is (based on number of steps, number of ingredients, time till completion) affects its average rating.
+Report on how the duration of a recipe is (based on number of steps, number of ingredients, time till completion) affects its average rating.
 
 
 
@@ -20,9 +20,8 @@ Our initial formatting of the data was to left merge the recipes and interaction
 Once we had formatted the dataframe and were able to take a thorough look into the dataset, we decided that the question we could ask from this dataset is:
 
 
-<center><b> What is the Relationship Between Cooking Complexity and Average Rating? </b></center>
+<center><b> What is the Relationship Between Cooking Duration and Average Rating? </b></center>
 
-<center> Complexity depended on a recipe's number of steps, number of ingredients, and cooking duration </center>
 
 <br>
 
@@ -327,7 +326,11 @@ Second, <strong>Missing Dependency</strong>:
 To answer our question: 
 <br>
 
- <i>Is their a relationship between cooking duration and average rating, we conducted a permutation test.</i>
+ <i>Is their a relationship between cooking duration and average rating> </i>
+
+ <br>
+ 
+ we conducted a permutation test
 
 
  We conducted a permutation hypothesis test focusing on the relationship between cooking duration and recipe rating. 
