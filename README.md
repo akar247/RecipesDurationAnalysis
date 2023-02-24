@@ -254,7 +254,9 @@ To assess the types of missingness present in our data we conducted two forms of
 <ol type="1">
   <li>Not Missing at Random:
     <ol type='i'>
-        <li> We analyzed the relevant columns in our dataset to find a a column with missing values that were independent of the rest of the data except for its own value.
+        <li> 
+            We analyzed the relevant columns in our dataset to find a a column with missing values that were independent of the rest of the data except for its own value.
+        </li>
     </ol>
   </li>
 </ol>
@@ -264,7 +266,9 @@ To assess the types of missingness present in our data we conducted two forms of
 <ol start="2">
   <li>Missing Dependency:
     <ol type='i'>
-        <li> Utilizing permuation tests were able to locate a column that showed cleared evidence for having missingness dependent on a column and independent missingness dependent on another column. 
+        <li>
+            Utilizing permuation tests were able to locate a column that showed cleared evidence for having missingness dependent on a column and independent missingness dependent on another column. 
+        </li>
     </ol>
   </li>
 </ol>
