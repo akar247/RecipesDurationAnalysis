@@ -203,6 +203,7 @@ The plot of the number of ingredients against the average duration of a recipe i
 
 <br>
 <br>
+<br>
 
 </center>
 
@@ -237,6 +238,7 @@ Although this pivot table is very large, it does reveal some key aspects of the 
 
 <br>
 <br>
+<br>
 
 ## <strong>Assessment of Missingness</strong>
 
@@ -256,10 +258,28 @@ To assess the types of missingness present in our data we conducted two forms of
     </ol>
 <br>
   <li>Missing Dependency</li>
-  <ol type='i'>
+    <ol type='i'>
         <li> Utilizing permuation tests were able to locate a column that showed cleared evidence for having missingness dependent on a column and independent missingness dependent on another column. 
     </ol>
 </ol>
 
+<br>
+<br>
+
+First, <strong>NMAR</strong>:
+
+
+<br>
+<br>
+
+
+Second, <strong>Missing Dependency</strong>:
+
 
 </p>
+
+<br>
+<br>
+<br>
+
+## <strong>Hypothesis Testing</strong>
