@@ -318,8 +318,9 @@ Second, <strong>Missing Dependency</strong>:
 <br>
 
 
----
+<hr>
 
+<br>
 <br>
 
 <h2> <strong>Hypothesis Testing</strong></h2>
