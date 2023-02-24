@@ -257,7 +257,9 @@ To assess the types of missingness present in our data we conducted two forms of
         <li> We analyzed the relevant columns in our dataset to find a a column with missing values that were independent of the rest of the data except for its own value.
     </ol>
 </ol>
+
 <br>
+
 <ol start="2">
   <li>Missing Dependency</li>
     <ol type='i'>
@@ -285,3 +287,22 @@ Second, <strong>Missing Dependency</strong>:
 <br>
 
 ## <strong>Hypothesis Testing</strong>
+
+<br>
+<br>
+
+To answer our question:
+
+<br>
+
+ <i>Is their a relationship between cooking duration and average rating, we conducted a permutation test?</i>
+
+ <br>
+
+ We conducted a permutation hypothesis test focusing on the relationship between cooking duration and recipe rating. 
+
+ <br>
+
+<br>
+
+ <strong>Null</strong>
