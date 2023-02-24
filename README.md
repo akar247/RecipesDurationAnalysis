@@ -93,6 +93,14 @@ The process of cleaning our dataset goes as follows:
 &emsp;&emsp; - We converted <code>user_id</code> and <code>recipe_id</code> to numeric types (int).
 
 <br>
+
+<strong>Our cleaned dataset</strong>
+
+<br>
+
+<iframe src="assets/df_head.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
 <br>
 
 &emsp; 2. Removing extreme values
