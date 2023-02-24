@@ -1,8 +1,3 @@
-Report on how the duration of a recipe is (based on number of steps, number of ingredients, time till completion) affects its average rating.
-
-
-
-
 ## <strong>Getting the Data</strong>
 
 <p>
