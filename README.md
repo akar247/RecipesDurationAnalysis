@@ -3,7 +3,7 @@ Report on how the complexity of a recipe is (based on number of steps, number of
 
 
 
-### <strong>Getting the Data</strong>
+## <strong>Getting the Data</strong>
 
 <p>
 
@@ -194,7 +194,7 @@ This plot illustrates the relationship between the number of steps a recipe has 
 <br>
 <br>
 
-THe plot of the number of ingredients against the average duration of a recipe is similar to the previous graph excep its domain is much smaller. It also does not seem to have as much of a linear relationship as it could be a quadratic relationship as the average duration sharply increases when there are 20 - 25 ingredients in the recipe. 
+The plot of the number of ingredients against the average duration of a recipe is similar to the previous graph excep its domain is much smaller. It also does not seem to have as much of a linear relationship as it could be a quadratic relationship as the average duration sharply increases when there are 20 - 25 ingredients in the recipe. 
 
 <br>
 <br>
@@ -233,5 +233,33 @@ Although this pivot table is very large, it does reveal some key aspects of the 
 
 </p>
 
+---
+
+<br>
+<br>
+
+## <strong>Assessment of Missingness</strong>
+
+<br>
+<br>
+
+<p>
+
+To assess the types of missingness present in our data we conducted two forms of analysis:
+<br>
+<br>
+
+<ol type="1">
+  <li>Not Missing at Random:</li>
+    <ol type='i'>
+        <li> We analyzed the relevant columns in our dataset to find a a column with missing values that were independent of the rest of the data except for its own value.
+    </ol>
+<br>
+  <li>Missing Dependency</li>
+  <ol type='i'>
+        <li> Utilizing permuation tests were able to locate a column that showed cleared evidence for having missingness dependent on a column and independent missingness dependent on another column. 
+    </ol>
+</ol>
 
 
+</p>
