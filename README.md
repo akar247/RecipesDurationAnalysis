@@ -305,4 +305,43 @@ To answer our question:
 
 <br>
 
- <strong>Null</strong>
+ ### <strong>Null</strong>
+
+ <br>
+
+<strong>Null Hypothesis</strong>: 
+
+<br> 
+
+&emsp;The average rating of a recipe is not related to the cooking duration that recipe.
+
+<br>
+<br>
+
+<strong>Choosing the Null</strong>: 
+
+<br>
+
+&emsp;We chose this null hypothesis because it assumes there is no relationship between these two variables, which is what we are testing to reject, which is good for answering our question.
+
+<br>
+<br>
+
+ ### <strong>Alternate</strong>
+
+ <br>
+
+<strong>Alternate Hypothesis</strong>: 
+
+<br> 
+
+&emsp;The average rating of a recipe decreases the longer the cooking duration of that recipe.
+
+<br>
+<br>
+
+<strong>Choosing the Alternative</strong>: 
+
+<br>
+
+&emsp;We chose this alternative because it matches our intuition that people who have spent longer cooking a recipe may be more cynical or harsh towards the recipe because of the time they've invested, whereas people cooking shorter recipes won't be as harsh when rating it since they didn't lose as much time.
