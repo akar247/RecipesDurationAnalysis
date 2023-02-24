@@ -314,6 +314,7 @@ To answer our question:
 
 <strong>Null Hypothesis</strong>: 
 
+<br>
 
 &emsp;The average rating of a recipe is not related to the cooking duration that recipe.
 
