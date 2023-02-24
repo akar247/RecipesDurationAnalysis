@@ -311,6 +311,7 @@ To answer our question:
 <br>
 
 ### <strong>Null</strong>
+
 <br>
 
 <strong>Null Hypothesis</strong>: 
@@ -327,6 +328,7 @@ To answer our question:
 <br>
 
 ### <strong>Alternate</strong>
+
 <br>
 
 <strong>Alternate Hypothesis</strong>: 
@@ -343,6 +345,7 @@ To answer our question:
 <br>
 
 ### <strong>Test Statistic</strong>
+
 <br>
 
 <strong>Test Statistic</strong>: 
@@ -358,6 +361,7 @@ To answer our question:
 <br>
 
 ### <strong>Assumptions and Results</strong>
+
 <br>
 
 <strong>Significance Level</strong>: 
