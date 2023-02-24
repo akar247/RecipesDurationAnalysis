@@ -62,7 +62,7 @@ recipe
 
 ### <strong>Cleaning and EDA (Exploratory Data Analysis)</strong>
 
-<P>
+<p>
 
 
 
@@ -318,14 +318,11 @@ Second, <strong>Missing Dependency</strong>:
 <br>
 
 
-</p>
-
-
-<br>
 ---
+
 <br>
 
-## <strong>Hypothesis Testing</strong>
+<h2> <strong>Hypothesis Testing</strong></h2>
 
 <br>
 
@@ -430,7 +427,7 @@ To answer our question:
 
 <br>
 
----
+
 
 <br>
 <br>
