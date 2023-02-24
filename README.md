@@ -288,14 +288,15 @@ Second, <strong>Missing Dependency</strong>:
 
 </p>
 
+
 <br>
-<br>
+---
 <br>
 
 ## <strong>Hypothesis Testing</strong>
 
 <br>
-
+<p>
 To answer our question:
 
 
@@ -321,7 +322,6 @@ To answer our question:
 &emsp;We chose this null hypothesis because it assumes there is no relationship between these two variables, which is what we are testing to reject, which is good for answering our question.
 
 <br>
-<br>
 
 ### <strong>Alternate</strong>
 
@@ -336,3 +336,20 @@ To answer our question:
 
 
 &emsp;We chose this alternative because it matches our intuition that people who have spent longer cooking a recipe may be more cynical or harsh towards the recipe because of the time they've invested, whereas people cooking shorter recipes won't be as harsh when rating it since they didn't lose as much time.
+
+<br>
+
+### <strong>Test Statistic</strong>
+
+
+<strong>Test Statistic</strong>: 
+
+
+&emsp;The test statistic we decided to use was the difference in average cooking duration for low rated recipes on average [1, 3.5) and high rated recipes on average [3.5, 5]
+
+<strong>Choosing the Test Statistic</strong>: 
+
+
+&emsp;Using the difference in mean cooking times is a valid test statistic because cooking duration is a numerical distribution. We divided the averages between low and high rated recipes to see if the cooking durations were different dependent on average rating.
+
+</p>
