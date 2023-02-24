@@ -311,63 +311,62 @@ To answer our question:
 <br>
 
 ### <strong>Null</strong>
-
+<br>
 
 <strong>Null Hypothesis</strong>: 
-
 <br>
 
 &emsp;The average rating of a recipe is not related to the cooking duration that recipe.
 
 
 <strong>Choosing the Null</strong>: 
-
+<br>
 
 &emsp;We chose this null hypothesis because it assumes there is no relationship between these two variables, which is what we are testing to reject, which is good for answering our question.
 
 <br>
 
 ### <strong>Alternate</strong>
-
+<br>
 
 <strong>Alternate Hypothesis</strong>: 
-
+<br>
 
 &emsp;The average rating of a recipe decreases the longer the cooking duration of that recipe.
 
 
 <strong>Choosing the Alternative</strong>: 
-
+<br>
 
 &emsp;We chose this alternative because it matches our intuition that people who have spent longer cooking a recipe may be more cynical or harsh towards the recipe because of the time they've invested, whereas people cooking shorter recipes won't be as harsh when rating it since they didn't lose as much time.
 
 <br>
 
 ### <strong>Test Statistic</strong>
-
+<br>
 
 <strong>Test Statistic</strong>: 
-
+<br>
 
 &emsp;The test statistic we decided to use was the difference in average cooking duration for low rated recipes on average [1, 3.5) and high rated recipes on average [3.5, 5]
 
 <strong>Choosing the Test Statistic</strong>: 
-
+<br>
 
 &emsp;Using the difference in mean cooking times is a valid test statistic because cooking duration is a numerical distribution. We divided the averages between low and high rated recipes to see if the cooking durations were different dependent on average rating.
 
 <br>
 
 ### <strong>Assumptions and Results</strong>
-
+<br>
 
 <strong>Significance Level</strong>: 
-
+<br>
 
 &emsp;We chose our significance level to be 0.05 since this is the standard level for hypothesis tests that do not require extreme accuracy. 
 
 <strong>Conclusion</strong>: 
-
+<br>
 
 &emsp;Our resulting p-value was 0.00.
 
