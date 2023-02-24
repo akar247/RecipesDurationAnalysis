@@ -7,12 +7,12 @@ Report on how the complexity of a recipe is (based on number of steps, number of
 
 <p>
 
-The dataset we used casme from [food.com](https://dsc80.com/project3/recipes-and-ratings/food.com), which offered a vast number of recipes and ratings associated with each recipe based off individual users. There were two datasets initially, the raw recipes info stored in `RAW_recipes.csv` and the reviews / ratings associated with each recipe was stored in `RAW_interactions.csv`. 
+The dataset we used casme from [food.com](https://dsc80.com/project3/recipes-and-ratings/food.com), which offered a vast number of recipes and ratings associated with each recipe based off individual users. There were two datasets initially, the raw recipes info stored in <code>RAW_recipes.csv</code> and the reviews / ratings associated with each recipe was stored in <code>RAW_interactions.csv</code>. 
 
 <br>
 <br>
 
-Our initial formatting of the data was to left merge the recipes and interactions datasets on the `id` column of the recipes and the `recipe_id` column of the interactions. Furthermore, we changed all ratings of value 0 to np.NaN values since ratings are supposed to be values from 1 - 5 so 0 was an invalid value for ratings and should not be considered in our analysis. We compute the average rating of each recipe and stored it into the merged dataframe as `rating_average`.
+Our initial formatting of the data was to left merge the recipes and interactions datasets on the <code>id</code> column of the recipes and the <code>recipe_id</code> column of the interactions. Furthermore, we changed all ratings of value 0 to np.NaN values since ratings are supposed to be values from 1 - 5 so 0 was an invalid value for ratings and should not be considered in our analysis. We compute the average rating of each recipe and stored it into the merged dataframe as <code>rating_average</code>.
 
 <br>
 <br>
@@ -36,23 +36,23 @@ For the purposes of this analysis we will be taking a holistic approach of consi
 <br>
 <br>
 
-&emsp; 1. `name` : The recipe name as denoted by the user who submitted the recipe
+&emsp; 1. <code>name</code> : The recipe name as denoted by the user who submitted the recipe
 
 <br>
 
-&emsp; 2. `minutes` : The time it takes (in minutes) to prepare a recipe
+&emsp; 2. <code>minutes</code> : The time it takes (in minutes) to prepare a recipe
 
 <br>
 
-&emsp; 3. `n_steps` : The number of steps outlined in a recipe
+&emsp; 3. <code>n_steps</code> : The number of steps outlined in a recipe
 
 <br>
 
-&emsp; 4. `n_ingredients` : The number of ingredients required to prepare a recipe
+&emsp; 4. <code>n_ingredients</code> : The number of ingredients required to prepare a recipe
 
 <br>
 
-&emsp; 5. `rating_average` : The average rating of each recipe by all users that submitted the 
+&emsp; 5. <code>rating_average</code> : The average rating of each recipe by all users that submitted the 
 recipe
 
 <br>
@@ -82,15 +82,15 @@ The process of cleaning our dataset goes as follows:
 <br>
 <br>
 
-&emsp;&emsp; - The columns `tags`, `nutrition`, `ingredients`, and `steps` were all lists that were considered strings. We converted them to list types. 
+&emsp;&emsp; - The columns <code>tags</code>, <code>nutrition</code>, <code>ingredients</code>, and <code>steps</code> were all lists that were considered strings. We converted them to list types. 
 
 <br>
 
-&emsp;&emsp; - We converted the `submitted` and `date` columns to datetime values. 
+&emsp;&emsp; - We converted the <code>submitted</code> and <code>date</code> columns to datetime values. 
 
 <br>
 
-&emsp;&emsp; - We converted `user_id` and  `recipe_id` to numeric types (int).
+&emsp;&emsp; - We converted <code>user_id</code> and <code>recipe_id</code> to numeric types (int).
 
 <br>
 <br>
