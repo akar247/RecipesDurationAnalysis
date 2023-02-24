@@ -300,7 +300,7 @@ Second, <strong>Missing Dependency</strong>:
 To answer our question:
 
 
- <i>Is their a relationship between cooking duration and average rating, we conducted a permutation test?</i>
+ <i>Is their a relationship between cooking duration and average rating, we conducted a permutation test.</i>
 
 
  We conducted a permutation hypothesis test focusing on the relationship between cooking duration and recipe rating. 
@@ -351,5 +351,23 @@ To answer our question:
 
 
 &emsp;Using the difference in mean cooking times is a valid test statistic because cooking duration is a numerical distribution. We divided the averages between low and high rated recipes to see if the cooking durations were different dependent on average rating.
+
+<br>
+
+### <strong>Assumptions and Results</strong>
+
+
+<strong>Significance Level</strong>: 
+
+
+&emsp;We chose our significance level to be 0.05 since this is the standard level for hypothesis tests that do not require extreme accuracy. 
+
+<strong>Conclusion</strong>: 
+
+
+&emsp;Our resulting p-value was 0.00.
+
+&emsp;Since our p-value is less than our stated significance value, we reject the null hypothesis. There is evidence that is not consistent with our null hypothesis that average rating and cooking duration are not related.
+
 
 </p>
