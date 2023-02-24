@@ -322,6 +322,31 @@ Secondly, <strong>Missing Dependency</strong>:
 <br>
 <br>
 
+<strong>Missingness of Rating_Average Dependent on Minutes</strong>
+
+<iframe src="assets/md_dep.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+We believed that the missingness of the 'rating_average' column was dependent on the 'minutes' column. Using a dataframe where we grouped the data by the name of the recipe and aggregated by the mean of the columns, we created a kernel density estimation plot of the 'minutes' distribution when 'rating_average' was missing and when it wasn't. This was The distributions had roughly the same shape so we decided that a valid test statistic would be the difference in means of minutes for each distribution. After running the permutation test, we calculated a p-value of 0.0. There is evidence that suggests that the missingness of 'rating_average' is dependent on the 'minutes' column.
+
+<br>
+<br>
+
+<strong>Missingness of Rating_Average Independent on N_Ingredients</strong>
+
+<iframe src="assets/md_ind.html" width=600 height=400 frameBorder=1></iframe>
+
+<br>
+<br>
+
+We believed that the missingness of 'rating_average' was not dependent on the 'n_ingredients' column. We used the same dataframe that we created for the first missingness test. After analyzing the distributions of n_ingredients when rating_average was missing and not missing, it was clear that the means would be fairly similar and that we would need to use the K-S statistic to determine if these distributions were this different by chance or not. This resulted in a p-value of 0.075. We failed to reject the null, meaning we did not have sufficient evidence to reject the hypothesis that the missingness of rating_average was not dependent on n_ingredients.
+
+
+
+<br>
+<br>
 
 <hr>
 
