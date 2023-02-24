@@ -133,6 +133,11 @@ For our <strong>EDA</strong>, we focused on 3 main forms of analysis, univariate
 <br>
 <br>
 
+&emsp;&emsp;The data we used for these plots was grouped by <code>name</code> in order to aggregate the data of the specified columns. 
+
+<br>
+<br>
+
 <center>
 
 <iframe src="assets/univariate_times.html" width=600 height=400 frameBorder=1></iframe>
