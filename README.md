@@ -445,6 +445,6 @@ To answer our question:
 
 <center>
 
-# <i>That is all!</i>
+<h2><i>That is all!</i></h2>
 
 </center>
