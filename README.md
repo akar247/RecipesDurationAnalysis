@@ -325,9 +325,11 @@ Second, <strong>Missing Dependency</strong>:
 
 To answer our question: 
 <br>
+<br>
 
- <i>Is their a relationship between cooking duration and average rating> </i>
+ <center><i>Is their a relationship between cooking duration and average rating> </i></center>
 
+ <br>
  <br>
  
  we conducted a permutation test
