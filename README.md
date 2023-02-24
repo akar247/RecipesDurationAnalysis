@@ -340,13 +340,10 @@ To answer our question:
 <br>
 <br>
 
- <center><i>Is their a relationship between cooking duration and average rating> </i></center>
+ <center><i>Is their a relationship between cooking duration and average rating? </i></center>
 
  <br>
  <br>
- 
- we conducted a permutation test
-
 
  We conducted a permutation hypothesis test focusing on the relationship between cooking duration and recipe rating. 
 
