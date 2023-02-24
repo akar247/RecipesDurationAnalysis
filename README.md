@@ -345,7 +345,7 @@ To answer our question:
 <br>
 <br>
 
-### <strong>Null</strong>
+<h3> <strong>Null</strong> </h3>
 
 <br>
 
@@ -362,7 +362,7 @@ To answer our question:
 
 <br>
 
-### <strong>Alternate</strong>
+<h3> <strong>Alternate</strong> </h3>
 
 <br>
 
@@ -380,7 +380,7 @@ To answer our question:
 
 <br>
 
-### <strong>Test Statistic</strong>
+<h3> <strong>Test Statistic</strong> </h3>
 
 <br>
 
@@ -398,7 +398,7 @@ To answer our question:
 
 <br>
 
-### <strong>Assumptions and Results</strong>
+<h3> <strong>Assumptions and Results</strong> </h3>
 
 <br>
 
