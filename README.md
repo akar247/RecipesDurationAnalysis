@@ -299,8 +299,8 @@ Second, <strong>Missing Dependency</strong>:
 
 <p>
 
-To answer our question:
-
+To answer our question: 
+<br>
 
  <i>Is their a relationship between cooking duration and average rating, we conducted a permutation test.</i>
 
