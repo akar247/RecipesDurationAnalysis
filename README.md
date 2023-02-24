@@ -308,6 +308,7 @@ To answer our question:
  We conducted a permutation hypothesis test focusing on the relationship between cooking duration and recipe rating. 
 
 <br>
+<br>
 
 ### <strong>Null</strong>
 
