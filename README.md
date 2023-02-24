@@ -306,7 +306,7 @@ To answer our question:
 
 <br>
 
- ### <strong>Null</strong>
+### <strong>Null</strong>
 
 
 <strong>Null Hypothesis</strong>: 
@@ -314,7 +314,6 @@ To answer our question:
 
 &emsp;The average rating of a recipe is not related to the cooking duration that recipe.
 
-<br>
 
 <strong>Choosing the Null</strong>: 
 
@@ -324,7 +323,7 @@ To answer our question:
 <br>
 <br>
 
- ### <strong>Alternate</strong>
+### <strong>Alternate</strong>
 
 
 <strong>Alternate Hypothesis</strong>: 
@@ -332,7 +331,6 @@ To answer our question:
 
 &emsp;The average rating of a recipe decreases the longer the cooking duration of that recipe.
 
-<br>
 
 <strong>Choosing the Alternative</strong>: 
 
