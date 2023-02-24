@@ -99,6 +99,10 @@ The process of cleaning our dataset goes as follows:
 <br>
 
 &emsp;&emsp; - We remove cooking times that were longer than 24 hours. 
+
+
+<br>
+<br>
     
 &emsp;&emsp; Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
 
