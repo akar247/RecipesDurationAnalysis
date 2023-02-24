@@ -92,12 +92,17 @@ The process of cleaning our dataset goes as follows:
 &emsp;&emsp; - We converted <code>user_id</code> and <code>recipe_id</code> to numeric types (int).
 
 <br>
+<br>
 
 &emsp; 2. Removing extreme values
 
 <br>
 
 &emsp;&emsp; - We remove cooking times that were longer than 24 hours. 
+
+
+<br>
+<br>
     
 &emsp;&emsp; Our reasoning for this was because we wanted to have a realistic dataset in the sense that were recipes that the everyday person would challenge themselves with. We felt like recipes that would take longer than 24 hours would require a commitment that was only present among chefs that do this for a living rather than a hobby or pastime. Since we are considering the ratings of these recipes we felt that these instances wouldn't reflect the general population's rating since they would find harder and challenging steps much easier since they are much more seasoned in this field. 
 
@@ -292,6 +297,11 @@ To assess the types of missingness present in our data we conducted two forms of
 <br>
 
 First, <strong>NMAR</strong>:
+
+<br>
+<br>
+
+The "description" column in this dataset is likely NMAR. While it is possible that descriptions may be missing because the title is self-explanatory, there are descriptions that have nothing to do with the title or the food item itself. This implies that descriptions aren't missing dependent on the 'name' column, and it likely isn't dependent on other columns. They could be missing dependent on themselves because the owner of the recipe felt that they couldn't think of a description that warranted writing it in the first place. The owner felt that there was nothing important to say about the recipe, so there was no need to write a description. The missingness of description is dependent on the descriptions themselves.
 
 
 <br>
