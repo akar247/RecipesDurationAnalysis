@@ -103,12 +103,12 @@ The process of cleaning our dataset goes as follows:
 <br>
 <br>
 
-<strong>Our cleaned dataset:</strong>
+<strong>Our cleaned dataset, the dataset has 232,800 rows :</strong>
 
 <br>
 
 <iframe style="background: #E5D1CD;"
-         src="assets/df_head2.html" width=800 height=800 frameBorder=1>
+         src="assets/df_head.html" width=800 height=800 frameBorder=1>
 </iframe>
 
 <br>
@@ -117,7 +117,7 @@ The process of cleaning our dataset goes as follows:
 <br>
 <br>
 
-For our <strong>EDA</strong>, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. 
+For our <strong>EDA</strong>, we focused on 3 main forms of analysis, univariate, bivariate, and aggregates. For our analysis we used a grouped data frame on the <code>name</code> of each recipe. This grouped dataframe has 83,040 rows. 
 
 <br>
 <br>
