@@ -1,4 +1,4 @@
-## <strong>Getting the Data</strong>
+## <strong>Introduction</strong>
 
 <p>
 
